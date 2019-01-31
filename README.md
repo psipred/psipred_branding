@@ -4,8 +4,11 @@ These colours are derived from the UCL brand identity
 https://www.ucl.ac.uk/cam/brand/guidelines/colour
 
 Find the PSIPRED logo svg
+
 http://www.cs.ucl.ac.uk/fileadmin/bioinf/Branding/psipred_logo.svg
+
 http://www.cs.ucl.ac.uk/fileadmin/bioinf/Branding/psipred_logomark.svg
+
 http://www.cs.ucl.ac.uk/fileadmin/bioinf/Branding/psipred_logomark.png
 
 Main Dark Blue
