@@ -15,6 +15,9 @@ Main Dark Blue
 #3255A4
 RGB: 50 85 164
 
+Alternate Main Purpler
+#4F099F
+
 Yellow
 #F6BE00
 
