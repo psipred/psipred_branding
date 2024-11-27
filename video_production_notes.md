@@ -5,10 +5,11 @@
 3. When setting a scene and audio capture ensure only one audio capture device is enabled (you may have to mute mic/aux). 
 4. When recording a take ensure you start with a pause of 5 seconds before first speak. This captures a sample of the audio floor which can be used for denoising.
 5. At the end of each take pause for 5 of so seconds to give some footage of the desktop/final shot that can help in making cuts/edits
-6. Each tutorial should be stand alone and should not assume someone has watched another tutorial. Though you can refer people to other tutorials so you don't have to repeat yourself. 
-7. Walk through the input page and show how to submit a job, explain each extra option if there are any
-8. If the job has a long runtime (over 1 min) then do two takes/captures, one for submission and one for describing the results
-9. On the results page walk through each area of the results. If there is a table describe what each column means and if there is a link follow the link and show the user what is at the end of the link and explain why. Also provide some interpretation, what does the result the use see mean in context. If there are any gotchas in interpreting the results mention those. After that explain the downloads panel and each of the links. Download all the files. Then using a text editor open each file in turn and explain what is in there, making reference to the results page
+6. Make your cursor nice and big so that it can be followed in the screen capture. If uinsg OBS "display capture" source ensure "capture cursor" is selected. If recording in Win 10 then ensure "Capture Method" is "windows 10 (1903 and up)
+7. Each tutorial should be stand alone and should not assume someone has watched another tutorial. Though you can refer people to other tutorials so you don't have to repeat yourself. 
+8. Walk through the input page and show how to submit a job, explain each extra option if there are any
+9. If the job has a long runtime (over 1 min) then do two takes/captures, one for submission and one for describing the results
+10. On the results page walk through each area of the results. If there is a table describe what each column means and if there is a link follow the link and show the user what is at the end of the link and explain why. Also provide some interpretation, what does the result the use see mean in context. If there are any gotchas in interpreting the results mention those. After that explain the downloads panel and each of the links. Download all the files. Then using a text editor open each file in turn and explain what is in there, making reference to the results page
 
 ## Productions Thoughts
 
